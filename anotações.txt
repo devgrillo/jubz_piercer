@@ -1,0 +1,28 @@
+
+
+
+Cor Principal: #cb6ce6 (Rosa Púrpura)
+Esta cor será a cor principal do site e deve ser usada para elementos de destaque, como botões, cabeçalhos e destaques.
+
+Cor de Destaque: #ffaf52 (Laranja Suave)
+Esta cor pode ser usada para realçar elementos importantes e chamar a atenção do usuário.
+
+Cor de Texto Principal: #333333 (Cinza Escuro)
+Esta é uma cor adequada para o texto principal no site, proporcionando boa legibilidade.
+
+Cor de Texto Secundário: #666666 (Cinza Médio)
+Use esta cor para o texto secundário, como parágrafos e informações adicionais.
+
+Cor de Fundo: #f7f7f7 (Cinza Claro)
+Esta é uma cor de fundo neutra que proporciona contraste com o texto e elementos coloridos.
+
+Cor de Acento: #52b9ff (Azul Claro)
+Use esta cor para realçar elementos secundários e criar variedade visual no site.
+
+Cor de Destaque Secundária: #ff80aa (Rosa)
+Esta cor pode ser usada para destacar elementos secundários ou botões secundários.
+
+Cor de Link: #1f5ad1 (Azul)
+Use esta cor para links, para que se destaquem e sejam facilmente identificáveis.
+
+Lembre-se de usar essas cores de maneira equilibrada e harmoniosa em todo o site, garantindo que a legibilidade e a estética sejam mantidas. Esta paleta de cores pode criar um ambiente atraente e agradável para os visitantes do seu site.

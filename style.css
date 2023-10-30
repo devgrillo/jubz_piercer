@@ -1,0 +1,204 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body,
+input,
+textarea {
+  font-family: "Lato", sans-serif;
+}
+
+header {
+  padding: 16px 0;
+  background-color: #cb6ce6;
+  color: #f7f7f7;
+}
+
+header nav li {
+  display: inline;
+  margin-left: 16px;
+  font-size: 16px;
+}
+
+header nav li a {
+  color: #f7f7f7;
+  text-decoration: none;
+}
+
+header,
+section h2,
+section h3,
+section h4,
+form button {
+  font-family: "Montserrat", sans-serif;
+  font-weight: normal;
+}
+
+section h2,
+section h3,
+section h4 {
+  margin-bottom: 16px;
+  color: #333333;
+}
+
+section {
+  padding: 26px 0;
+  color: #666666;
+}
+
+section p {
+  margin-bottom: 8px;
+}
+
+header .container,
+section .container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+section .container {
+  align-items: flex-start;
+}
+
+.container {
+  max-width: 1280px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+#about .container {
+  display: flexbox;
+  align-items: center;
+  justify-content: space-around;
+}
+
+#about .text {
+  margin-bottom: 10%;
+  margin-left: 36px;
+  display: block;
+  font-size: larger;
+}
+
+#about .text h2 {
+  font-weight: bolder;
+}
+
+#about img {
+  height: 400px;
+  border-radius: 50%;
+}
+
+#piercing {
+  margin-left: 5%;
+}
+
+.piercings {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px;
+  width: 95%;
+  border-left: #ff80aa solid 16px;
+}
+
+.piercings li {
+text-decoration: none;
+}
+
+.piercings img {
+  padding: 10px;
+  height: 300px;
+  border-radius: 10%;
+}
+
+#services {
+  margin-left: 5%;
+}
+
+.service-items li {
+  text-decoration: none;
+  display: block;
+}
+
+.service-items {
+  display: flex;
+  align-items: first baseline;
+  justify-content: space-evenly;
+  padding: 10px;
+  width: 95%;
+  border-left: #ff80aa solid 16px;
+}
+
+.service-items h3 {
+  margin: 5%;
+  text-align: left;
+}
+
+.service-items p {
+  text-align: justify;
+  margin: 5%;
+}
+
+#contact {
+  margin-left: 5%;
+}
+
+.all-contact {
+  display: flex;
+  justify-content: space-around;
+  align-items: self-start;
+  border-left: #ff80aa solid 16px;
+}
+
+.social-links img {
+  height: 36px;
+}
+
+.social-links li {
+  display: inline;
+  margin-right: 8px;
+}
+
+.social-links li a {
+  text-decoration: none;
+}
+
+.contact-methods {
+  display: flex;
+  justify-content: space-between;
+}
+
+form input,
+form textarea,
+form button {
+  display: block;
+  width: 320px;
+  margin-bottom: 8px;
+  padding: 8px;
+}
+
+form textarea {
+  resize: none;
+  height: 180px;
+}
+
+form button {
+  background-color: #ffaf52;
+  color: #f7f7f7;
+  border: none;
+  cursor: pointer;
+}
+
+form button:hover {
+  background-color: #ff80aa;
+}
+
+footer {
+  background-color: #cb6ce6;
+  color: #f7f7f7;
+  padding: 16px 0;
+}
